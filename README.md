@@ -1,5 +1,5 @@
 # RIR-Indoor Panorama-Contrastive-Learning
-Room Impulse Response (RIR) and Indoor Panorama Contrastive without joint tasks.
+First order Ambisonic Room Impulse Response (RIR) and Indoor Panorama Contrastive without joint tasks.
 
 **Research Period:** 2024 Summer-Autumn <br>
 **Advisor:** Jung-Woo Choi (KAIST EE) <br>
@@ -14,11 +14,16 @@ CRIP Extension Version From AV-RIR
   * Which only uses partial information from the both modality
 * We propose **General alignment between Indoor scene and RIR** by Depth & HorizonNet and full RIR
   * Mix using **depth** and **horizonNet** Outperformed in Top-1 Accuracy.
+ 
+RIR and corresponding Panorama provided by <br>
+* ⚙️ [Soundspace2.0](https://arxiv.org/abs/2206.08312)
+* 📊 [Matterport3D](https://arxiv.org/abs/1709.06158)
+
 
 # Architecture Diagram
 <img src="https://github.com/byulharang/RIR-Depth-Contrastive-Learning/blob/main/Image/Architecture.png" alt="Architecture Flow" width="600"/>
 
-# 📄 Reference
+# 📄 Main Reference
 
 **Ratnarajah, A., Ghosh, S., Kumar, S., Chiniya, P., & Manocha, D.**  
 *AV-RIR: Audio-Visual Room Impulse Response Estimation*.  
