@@ -1,6 +1,8 @@
 # RIR-Indoor Panorama-Contrastive-Learning
 First order Ambisonic Room Impulse Response (RIR) and Indoor Panorama Contrastive without joint tasks.
 
+---
+
 **Research Period:** 2024 Summer-Autumn <br>
 **Advisor:** Jung-Woo Choi (KAIST EE) <br>
 **Summer Presentation:** 🔬 [Google Slide](https://docs.google.com/presentation/d/1Es7iA-b3DixLiqxxs-3j7rCpXUrvYpqKdCc9YQYZujk/edit?usp=sharing) <br>
