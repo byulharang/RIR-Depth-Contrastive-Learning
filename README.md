@@ -4,7 +4,6 @@ First order Ambisonic Room Impulse Response (RIR) and Indoor Panorama Contrastiv
 ---
 
 **Research Period:** 2024 Summer-Autumn <br>
-**Advisor:** Jung-Woo Choi (KAIST EE) <br>
 **Summer Presentation:** 🔬 [Google Slide](https://docs.google.com/presentation/d/1Es7iA-b3DixLiqxxs-3j7rCpXUrvYpqKdCc9YQYZujk/edit?usp=sharing) <br>
 **Data & Experiment Logs:** 🌐 [Notion](https://kiwi-primrose-e33.notion.site/16030761238f80b79c79fb76c53b808e?source=copy_link)
 
